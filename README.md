@@ -1,6 +1,6 @@
 # Ali Chen
 
-## Locationg
+## Location
 
 I live in Los Angeles County in the state of California, in the United States of America.
 
