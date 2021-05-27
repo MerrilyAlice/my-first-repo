@@ -1,13 +1,13 @@
 # Ali Chen
 
-## Locationg
+## Location
 
 I live in Los Angeles County in the state of California, in the United States of America.
 
 ### Reading.
 
 Three of my favorite books are:
-- *The Shadow of teh Wind* by Carlos Ruiz Zafon
+- *The Shadow of the Wind* by Carlos Ruiz Zafon
 - *Flowers for Algernon* by Daniel Keyes
 - *Mindset* by Carol Dweck
 
