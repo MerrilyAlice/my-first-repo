@@ -1,3 +1,0 @@
-<<<<<<< HEAD
-  Ooops - let's make a change - there is no longer a conflict
->>>>>>> my-second-twiggy
